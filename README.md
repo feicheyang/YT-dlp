@@ -1,4 +1,4 @@
-# YT-dlp
+# YouTube视频下载器
 这是一个根据YT-dlp脚本，来写的下载器软件
 
 脚本源贴：https://github.com/yt-dlp/yt-dlp
